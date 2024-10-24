@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome",
+  "hello": "Hello",
+  "search_place_holder": "نام شهر",
+  "choose_lang": "تغییر زبان",
+  "no_city_error": "نام شهر پیدا نشد",
+  "wind_speed": "سرعت باد",
+  "humidity": "رطوبت"
+}

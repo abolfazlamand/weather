@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome",
+  "hello": "Hello",
+  "search_place_holder": "enter city name",
+  "choose_lang": "Choose Language",
+  "no_city_error": "Sorry city not found, please try again.",
+  "wind_speed": "Wind Speed",
+  "humidity": "Humidity"
+}
